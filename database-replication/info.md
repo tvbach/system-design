@@ -64,3 +64,5 @@ SOLUTION:
         ├─ POST /orders (write)
         ├─ GET /orders/last (read)
         └─ response
+  Cách 2:
+* Promote slave to master?
